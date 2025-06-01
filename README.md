@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:212223100027
-# Name: LOGA MITHRA R
+# Reg No:212223240142
+# Name: ROSHINI S
 
 # AIM:
 To develop the Hospital Management System using Star UML.
